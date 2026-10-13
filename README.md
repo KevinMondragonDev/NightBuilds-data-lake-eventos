@@ -2,7 +2,7 @@
 
 > Data lake dirigido por eventos en AWS local: S3, SQS, Lambda y DynamoDB, con una API que sirve el resumen.
 
-**Estado:** 🚧 sin empezar · **Tipo:** ETL por eventos + API, en Floci · **Módulo del programa:** 06/07 · Nube con Floci
+**Estado:** 🚧 sin empezar · **Tipo:** ETL por eventos + API, en Floci · **Módulo del programa:** 05/07 · Nube con Floci
 
 ## La problemática
 
