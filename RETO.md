@@ -1,8 +1,8 @@
-# 🚀 Sideproject — Data lake dirigido por eventos
+# 🚀 NightBuild — Data lake dirigido por eventos
 
-**Repositorio:** `sideproject-data-lake-eventos` · **Tipo:** ETL por eventos + API, en Floci · **Tiempo:** 10–12 h · **Después de:** lecciones 1 a 5 de esta sección
+**Repositorio:** `NightBuilds-data-lake-eventos` · **Tipo:** ETL por eventos + API, en Floci · **Tiempo:** 10–12 h · **Después de:** lecciones 1 a 5 de esta sección
 
-> Reglas, README y lista de cierre: [`SIDEPROJECTS.md`](docs/REGLAS.md). **No hay solución: el diseño es tuyo.**
+> Reglas, README y lista de cierre: [`NIGHTBUILDS.md`](docs/REGLAS.md). **No hay solución: el diseño es tuyo.**
 
 ## El caso
 
