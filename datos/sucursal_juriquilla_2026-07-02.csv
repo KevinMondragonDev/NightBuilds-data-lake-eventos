@@ -1,0 +1,102 @@
+id,cuenta_id,fecha,tipo,monto,comercio,categoria,sucursal
+519,13,2026-07-02 08:05:00,compra,996.13,Walmart,supermercado,juriquilla
+468,20,2026-07-02 08:06:00,compra,1288.53,Volaris,viajes,juriquilla
+472,2,2026-07-02 08:14:00,compra,383.56,BP,gasolina,juriquilla
+477,25,2026-07-02 08:15:00,compra,172.13,ETN,viajes,juriquilla
+560,8,2026-07-02 08:21:00,deposito,1337.42,,,juriquilla
+500,28,2026-07-02 08:29:00,retiro,674.20,,,juriquilla
+551,37,2026-07-02 08:36:00,deposito,5702.91,,,juriquilla
+471,29,2026-07-02 08:40:00,compra,804.41,Telcel,servicios,juriquilla
+466,19,2026-07-02 08:44:00,retiro,1164.56,,,juriquilla
+550,3,2026-07-02 08:46:00,compra,1235.59,Toks,restaurantes,juriquilla
+554,38,2026-07-02 08:50:00,deposito,1218.95,,,juriquilla
+504,16,2026-07-02 08:56:00,deposito,4726.76,,,juriquilla
+497,6,2026-07-02 09:11:00,compra,120.25,Volaris,viajes,juriquilla
+462,31,2026-07-02 09:14:00,compra,507.36,BP,gasolina,juriquilla
+484,35,2026-07-02 09:15:00,compra,761.36,Telcel,servicios,juriquilla
+505,25,2026-07-02 09:18:00,compra,650.50,Telcel,servicios,juriquilla
+552,17,2026-07-02 09:25:00,compra,268.06,Ticketmaster,entretenimiento,juriquilla
+482,9,2026-07-02 09:27:00,deposito,592.43,,,juriquilla
+486,25,2026-07-02 09:34:00,transferencia,15789.57,,,juriquilla
+474,40,2026-07-02 09:36:00,compra,1689.07,Shell,gasolina,juriquilla
+521,1,2026-07-02 09:37:00,compra,227.30,Sushi Itto,restaurantes,juriquilla
+469,10,2026-07-02 09:41:00,compra,101.58,Ticketmaster,entretenimiento,juriquilla
+517,21,2026-07-02 09:43:00,transferencia,1194.32,,,juriquilla
+475,8,2026-07-02 09:54:00,compra,1753.64,HEB,supermercado,juriquilla
+501,8,2026-07-02 10:00:00,compra,362.29,HEB,supermercado,juriquilla
+493,3,2026-07-02 10:05:00,compra,510.31,Chedraui,supermercado,juriquilla
+539,9,2026-07-02 10:05:00,compra,552.91,Vips,restaurantes,juriquilla
+545,18,2026-07-02 10:08:00,compra,113.49,BP,gasolina,juriquilla
+489,1,2026-07-02 10:14:00,compra,1694.64,Telcel,servicios,juriquilla
+541,19,2026-07-02 10:14:00,retiro,10261.52,,,juriquilla
+542,21,2026-07-02 10:17:00,compra,233.60,BP,gasolina,juriquilla
+465,31,2026-07-02 10:20:00,deposito,10263.44,,,juriquilla
+532,22,2026-07-02 10:20:00,compra,269.03,Volaris,viajes,juriquilla
+515,12,2026-07-02 10:42:00,retiro,525.62,,,juriquilla
+494,2,2026-07-02 10:54:00,compra,49.59,CFE,servicios,juriquilla
+525,40,2026-07-02 11:09:00,transferencia,1151.10,,,juriquilla
+509,24,2026-07-02 11:10:00,deposito,4846.16,,,juriquilla
+557,1,2026-07-02 11:18:00,deposito,13836.96,,,juriquilla
+495,27,2026-07-02 11:32:00,compra,405.49,Ticketmaster,entretenimiento,juriquilla
+487,15,2026-07-02 11:34:00,compra,387.39,Telmex,servicios,juriquilla
+535,14,2026-07-02 11:41:00,compra,531.67,Pemex,gasolina,juriquilla
+478,8,2026-07-02 11:42:00,compra,512.75,Spotify,entretenimiento,juriquilla
+503,5,2026-07-02 11:44:00,compra,97.68,Netflix,entretenimiento,juriquilla
+538,33,2026-07-02 11:57:00,compra,2669.25,Cinépolis,entretenimiento,juriquilla
+483,29,2026-07-02 12:19:00,compra,292.49,Izzi,servicios,juriquilla
+523,37,2026-07-02 12:27:00,deposito,4567.76,,,juriquilla
+547,6,2026-07-02 12:36:00,compra,369.06,Airbnb,viajes,juriquilla
+520,13,2026-07-02 12:41:00,deposito,1173.82,,,juriquilla
+491,20,2026-07-02 12:59:00,transferencia,2108.36,,,juriquilla
+461,16,2026-07-02 13:13:00,deposito,652.37,,,juriquilla
+516,17,2026-07-02 13:14:00,compra,385.21,La Mariposa,restaurantes,juriquilla
+549,6,2026-07-02 13:15:00,retiro,5058.23,,,juriquilla
+513,3,2026-07-02 13:19:00,retiro,2365.45,,,juriquilla
+548,14,2026-07-02 13:24:00,deposito,550.78,,,juriquilla
+488,22,2026-07-02 13:26:00,compra,493.97,Aeroméxico,viajes,juriquilla
+546,14,2026-07-02 13:43:00,compra,1025.62,Ticketmaster,entretenimiento,juriquilla
+522,20,2026-07-02 13:47:00,retiro,16871.47,,,juriquilla
+507,40,2026-07-02 14:14:00,compra,456.48,Sushi Itto,restaurantes,juriquilla
+537,23,2026-07-02 14:30:00,deposito,9580.80,,,juriquilla
+556,25,2026-07-02 14:31:00,transferencia,740.59,,,juriquilla
+524,31,2026-07-02 14:48:00,compra,185.04,Cinépolis,entretenimiento,juriquilla
+530,19,2026-07-02 15:00:00,deposito,1600.96,,,juriquilla
+528,16,2026-07-02 15:23:00,deposito,6506.16,,,juriquilla
+558,5,2026-07-02 15:25:00,compra,1860.13,BP,gasolina,juriquilla
+543,5,2026-07-02 15:41:00,compra,524.98,Chedraui,supermercado,juriquilla
+502,19,2026-07-02 15:49:00,compra,227.23,Volaris,viajes,juriquilla
+533,5,2026-07-02 15:52:00,compra,839.40,Cinépolis,entretenimiento,juriquilla
+492,5,2026-07-02 16:04:00,deposito,4776.95,,,juriquilla
+508,23,2026-07-02 16:04:00,compra,895.49,Sushi Itto,restaurantes,juriquilla
+536,4,2026-07-02 16:07:00,transferencia,10824.46,,,juriquilla
+544,12,2026-07-02 16:24:00,compra,295.18,Aeroméxico,viajes,juriquilla
+463,23,2026-07-02 16:26:00,deposito,696.62,,,juriquilla
+506,12,2026-07-02 16:29:00,compra,1750.84,Chedraui,supermercado,juriquilla
+467,6,2026-07-02 16:36:00,compra,201.75,Pemex,gasolina,juriquilla
+518,24,2026-07-02 16:36:00,compra,514.10,BP,gasolina,juriquilla
+526,17,2026-07-02 16:36:00,compra,96.22,Volaris,viajes,juriquilla
+496,37,2026-07-02 16:43:00,compra,920.91,Ticketmaster,entretenimiento,juriquilla
+529,2,2026-07-02 17:07:00,compra,747.99,Pemex,gasolina,juriquilla
+481,24,2026-07-02 17:12:00,compra,94.16,La Mariposa,restaurantes,juriquilla
+498,20,2026-07-02 17:12:00,compra,526.11,Spotify,entretenimiento,juriquilla
+464,8,2026-07-02 17:44:00,retiro,1174.61,,,juriquilla
+512,36,2026-07-02 17:45:00,compra,323.17,Toks,restaurantes,juriquilla
+559,35,2026-07-02 17:45:00,compra,75.93,Chedraui,supermercado,juriquilla
+470,25,2026-07-02 17:46:00,compra,394.33,Spotify,entretenimiento,juriquilla
+514,34,2026-07-02 17:50:00,compra,2424.93,Ticketmaster,entretenimiento,juriquilla
+480,14,2026-07-02 17:56:00,compra,1005.65,Sushi Itto,restaurantes,juriquilla
+510,19,2026-07-02 18:02:00,compra,387.75,Toks,restaurantes,juriquilla
+540,34,2026-07-02 18:09:00,compra,1307.58,La Mariposa,restaurantes,juriquilla
+555,19,2026-07-02 18:21:00,compra,556.27,Spotify,entretenimiento,juriquilla
+534,12,2026-07-02 18:29:00,compra,677.17,La Mariposa,restaurantes,juriquilla
+490,27,2026-07-02 18:33:00,compra,752.66,Airbnb,viajes,juriquilla
+473,28,2026-07-02 18:35:00,deposito,2795.25,,,juriquilla
+499,29,2026-07-02 19:01:00,compra,362.18,La Mariposa,restaurantes,juriquilla
+485,26,2026-07-02 19:04:00,deposito,15847.21,,,juriquilla
+527,20,2026-07-02 19:21:00,compra,176.05,Netflix,entretenimiento,juriquilla
+460,28,2026-07-02 19:31:00,deposito,7043.80,,,juriquilla
+511,26,2026-07-02 19:39:00,compra,759.39,Toks,restaurantes,juriquilla
+553,7,2026-07-02 19:55:00,retiro,611.95,,,juriquilla
+531,10,2026-07-02 20:02:00,retiro,11879.46,,,juriquilla
+479,32,2026-07-02 20:03:00,compra,107.88,Vips,restaurantes,juriquilla
+476,2,2026-07-02 20:18:00,transferencia,12794.24,,,juriquilla

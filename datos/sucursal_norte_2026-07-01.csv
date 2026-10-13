@@ -1,0 +1,98 @@
+id,cuenta_id,fecha,tipo,monto,comercio,categoria,sucursal
+333,35,2026-07-01 08:09:00,compra,492.97,Shell,gasolina,norte
+339,16,2026-07-01 08:11:00,compra,3808.57,Netflix,entretenimiento,norte
+296,16,2026-07-01 08:20:00,deposito,1399.46,,,norte
+338,13,2026-07-01 08:22:00,deposito,695.54,,,norte
+302,36,2026-07-01 08:27:00,retiro,7766.76,,,norte
+318,31,2026-07-01 08:33:00,compra,216.72,Volaris,viajes,norte
+273,16,2026-07-01 08:34:00,deposito,1794.10,,,norte
+250,34,2026-07-01 08:39:00,compra,1662.59,Netflix,entretenimiento,norte
+256,1,2026-07-01 08:55:00,compra,135.64,Airbnb,viajes,norte
+324,20,2026-07-01 09:08:00,compra,706.72,Walmart,supermercado,norte
+336,9,2026-07-01 09:10:00,compra,2456.40,Pemex,gasolina,norte
+307,3,2026-07-01 09:28:00,deposito,4872.81,,,norte
+328,38,2026-07-01 09:28:00,compra,1253.67,Cinépolis,entretenimiento,norte
+298,27,2026-07-01 09:38:00,compra,191.39,Netflix,entretenimiento,norte
+284,22,2026-07-01 09:45:00,retiro,2058.67,,,norte
+243,27,2026-07-01 10:01:00,deposito,1606.35,,,norte
+289,3,2026-07-01 10:16:00,compra,803.01,Telmex,servicios,norte
+304,38,2026-07-01 10:21:00,compra,1166.28,Pemex,gasolina,norte
+314,13,2026-07-01 10:24:00,compra,218.30,Walmart,supermercado,norte
+305,3,2026-07-01 10:32:00,retiro,5469.45,,,norte
+334,8,2026-07-01 10:42:00,compra,157.68,Izzi,servicios,norte
+264,6,2026-07-01 10:46:00,transferencia,1432.29,,,norte
+313,12,2026-07-01 10:56:00,compra,278.06,Spotify,entretenimiento,norte
+283,13,2026-07-01 11:09:00,compra,199.50,CFE,servicios,norte
+325,23,2026-07-01 11:31:00,transferencia,857.20,,,norte
+300,12,2026-07-01 11:41:00,compra,332.04,BP,gasolina,norte
+282,7,2026-07-01 11:42:00,transferencia,2750.86,,,norte
+244,2,2026-07-01 12:05:00,compra,257.32,BP,gasolina,norte
+303,28,2026-07-01 12:09:00,compra,205.97,La Mariposa,restaurantes,norte
+281,21,2026-07-01 12:31:00,retiro,2820.22,,,norte
+263,2,2026-07-01 12:47:00,deposito,377.14,,,norte
+267,38,2026-07-01 13:01:00,transferencia,2037.47,,,norte
+252,8,2026-07-01 13:06:00,transferencia,1216.43,,,norte
+331,36,2026-07-01 13:13:00,compra,103.93,Walmart,supermercado,norte
+277,3,2026-07-01 13:17:00,compra,185.44,Telcel,servicios,norte
+316,36,2026-07-01 13:41:00,compra,625.45,Aeroméxico,viajes,norte
+315,35,2026-07-01 13:51:00,compra,242.09,Vips,restaurantes,norte
+247,11,2026-07-01 13:56:00,compra,320.44,Pemex,gasolina,norte
+290,38,2026-07-01 14:19:00,retiro,17549.73,,,norte
+275,22,2026-07-01 14:41:00,compra,630.05,Chedraui,supermercado,norte
+269,31,2026-07-01 14:44:00,compra,181.98,Volaris,viajes,norte
+257,39,2026-07-01 14:47:00,transferencia,1204.79,,,norte
+288,19,2026-07-01 14:48:00,compra,550.46,Sushi Itto,restaurantes,norte
+335,26,2026-07-01 14:57:00,compra,300.79,Izzi,servicios,norte
+278,30,2026-07-01 15:02:00,compra,908.55,Chedraui,supermercado,norte
+295,34,2026-07-01 15:04:00,compra,568.86,Sushi Itto,restaurantes,norte
+248,14,2026-07-01 15:07:00,compra,54.36,Sushi Itto,restaurantes,norte
+251,11,2026-07-01 15:14:00,compra,283.34,Netflix,entretenimiento,norte
+262,37,2026-07-01 15:16:00,deposito,11502.90,,,norte
+323,32,2026-07-01 15:38:00,compra,520.67,La Mariposa,restaurantes,norte
+286,10,2026-07-01 15:44:00,retiro,1562.92,,,norte
+287,34,2026-07-01 15:47:00,deposito,691.48,,,norte
+279,16,2026-07-01 16:10:00,compra,1233.38,Airbnb,viajes,norte
+322,31,2026-07-01 16:10:00,deposito,2228.91,,,norte
+299,24,2026-07-01 16:12:00,compra,113.23,Soriana,supermercado,norte
+271,27,2026-07-01 16:14:00,compra,400.04,Aeroméxico,viajes,norte
+285,32,2026-07-01 16:38:00,compra,221.73,Sushi Itto,restaurantes,norte
+253,40,2026-07-01 16:48:00,compra,123.99,HEB,supermercado,norte
+259,22,2026-07-01 16:48:00,compra,58.00,Chedraui,supermercado,norte
+249,2,2026-07-01 16:56:00,deposito,7296.22,,,norte
+311,14,2026-07-01 17:02:00,transferencia,690.87,,,norte
+245,3,2026-07-01 17:08:00,compra,1643.80,Netflix,entretenimiento,norte
+294,38,2026-07-01 17:16:00,compra,216.70,HEB,supermercado,norte
+265,8,2026-07-01 17:24:00,compra,1076.43,Izzi,servicios,norte
+268,6,2026-07-01 17:28:00,deposito,6560.30,,,norte
+327,25,2026-07-01 17:36:00,compra,662.63,HEB,supermercado,norte
+330,19,2026-07-01 17:39:00,transferencia,4217.73,,,norte
+255,22,2026-07-01 17:50:00,compra,456.88,HEB,supermercado,norte
+293,32,2026-07-01 17:51:00,compra,1014.34,Walmart,supermercado,norte
+291,18,2026-07-01 17:53:00,deposito,2082.82,,,norte
+276,8,2026-07-01 18:00:00,compra,159.69,Chedraui,supermercado,norte
+310,9,2026-07-01 18:00:00,deposito,6003.78,,,norte
+309,36,2026-07-01 18:11:00,compra,999.84,Airbnb,viajes,norte
+321,2,2026-07-01 18:17:00,retiro,8713.90,,,norte
+272,2,2026-07-01 18:20:00,compra,84.57,HEB,supermercado,norte
+261,7,2026-07-01 18:28:00,compra,590.03,BP,gasolina,norte
+320,5,2026-07-01 18:35:00,deposito,371.62,,,norte
+254,39,2026-07-01 18:42:00,deposito,2952.37,,,norte
+280,25,2026-07-01 18:51:00,compra,3203.27,Toks,restaurantes,norte
+312,26,2026-07-01 18:52:00,compra,120.49,Chedraui,supermercado,norte
+258,34,2026-07-01 19:04:00,deposito,410.93,,,norte
+326,5,2026-07-01 19:11:00,compra,267.92,Soriana,supermercado,norte
+337,34,2026-07-01 19:16:00,compra,454.60,Ticketmaster,entretenimiento,norte
+274,25,2026-07-01 19:20:00,deposito,9222.04,,,norte
+297,20,2026-07-01 19:27:00,compra,227.23,Cinépolis,entretenimiento,norte
+332,31,2026-07-01 19:30:00,compra,299.66,Shell,gasolina,norte
+266,36,2026-07-01 19:31:00,compra,192.86,La Mariposa,restaurantes,norte
+292,16,2026-07-01 19:33:00,compra,192.38,Shell,gasolina,norte
+308,40,2026-07-01 19:54:00,compra,743.12,La Mariposa,restaurantes,norte
+306,6,2026-07-01 19:59:00,deposito,7173.91,,,norte
+246,11,2026-07-01 20:03:00,compra,578.87,Chedraui,supermercado,norte
+260,36,2026-07-01 20:18:00,compra,631.09,Cinépolis,entretenimiento,norte
+317,32,2026-07-01 20:35:00,compra,410.04,Shell,gasolina,norte
+270,18,2026-07-01 20:42:00,deposito,4759.42,,,norte
+301,6,2026-07-01 20:52:00,retiro,2087.78,,,norte
+319,22,2026-07-01 20:55:00,deposito,363.35,,,norte
+329,22,2026-07-01 20:57:00,compra,1239.70,Netflix,entretenimiento,norte
